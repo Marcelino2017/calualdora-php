@@ -9,6 +9,7 @@
 <body>
     <form class="caja" action="calculadora.php" method="get">
         <h1>CALCULADORA PHP</h1>
+        <h2>SUMA</h2>
         <input type="text" name="numero1" value="" placeholder="ingrese un número">
         <input type="text" name="numero2" value=""  placeholder="ingrese otra número" >
         <input type="submit" name="" value="CALCULAR">
